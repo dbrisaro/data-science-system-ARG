@@ -1,0 +1,6 @@
+moneda_id;moneda_desc;codigo_iso
+-1;Sin datos;
+1;PESOS;ARS
+2;DOLARES;USD
+3;EUROS;EUR
+4;LIBRAS;GBP

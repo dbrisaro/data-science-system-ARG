@@ -1,0 +1,246 @@
+pais_id;pais_desc;codigo_ISO3
+-1;SIN PAIS;
+1;Argentina;ARG
+2;Bolivia;BOL
+3;Brasil;BRA
+4;Colombia;COL
+5;Chile;CHL
+6;Ecuador;ECU
+7;México;MEX
+8;Paraguay;PRY
+9;Perú;PER
+10;Uruguay;URY
+11;Venezuela;VEN
+12;Costa Rica;CRI
+13;Honduras;HND
+14;Panamá;PAN
+15;Guatemala;GTM
+16;Cuba;CUB
+21;Estados Unidos de América;USA
+22;Canadá;CAN
+31;Alemania;DEU
+32;Austria;AUT
+33;Bélgica;BEL
+34;Dinamarca;DNK
+35;España;ESP
+37;Francia;FRA
+38;Grecia;GRC
+39;Países Bajos (Holanda);NLD
+41;Italia;ITA
+42;Noruega;NOR
+43;Portugal;PRT
+44;Suecia;SWE
+45;Suiza;CHE
+48;Irlanda;IRL
+53;Hungría;HUN
+54;Polonia;POL
+57;Turquía;TUR
+61;China;CHN
+63;Israel;ISR
+64;Japón;JPN
+71;Australia;AUS
+75;Corea del Sur;KOR
+76;El Salvador;SLV
+77;Haití;HTI
+78;Líbano;LBN
+80;Nicaragua;NIC
+81;Rumania;ROU
+82;Reino Unido de Gran Bretaña e Irlanda del Norte;GBR
+84;Siria;SYR
+85;Puerto Rico;PRI
+86;República de Sudáfrica;ZAF
+385;Papúa Nueva Guinea;PNG
+386;Montserrat;MSR
+387;Montenegro;MNE
+388;Mongolia;MNG
+389;Moldavia;MDA
+390;Micronesia;FSM
+391;Mayotte;MYT
+392;Mauritania;MRT
+393;Mauricio;MUS
+394;Martinica;MTQ
+395;Marruecos;MAR
+396;Malta;MLT
+397;Mozambique;MOZ
+398;Namibia;NAM
+399;Nauru;NRU
+400;Palestina (ANP);PSE
+401;Palaos;PLW
+402;Pakistán;PAK
+403;Omán;OMN
+404;Nueva Zelanda;NZL
+405;Nueva Caledonia;NCL
+406;Norfolk;NFK
+407;Niue;NIU
+408;Nigeria;NGA
+409;Níger;NER
+410;Nepal;NPL
+411;Malí;MLI
+412;Maldivas;MDV
+413;Malaui;MWI
+414;Kenia;KEN
+415;Kazajistán;KAZ
+416;Jordania;JOR
+417;Jersey;JEY
+418;Jamaica;JAM
+419;Islas Vírgenes Estadounidenses;VIR
+420;Islas Vírgenes Británicas;VGB
+421;Islas ultramarinas de Estados Unidos;UMI
+422;Islas Turcas y Caicos;TCA
+423;Islas Salomón;SLB
+424;Islas Pitcairn;PCN
+425;Kirguistán;KGZ
+426;Kiribati;KIR
+427;Kuwait;KWT
+428;Malasia;MYS
+429;Madagascar;MDG
+430;Macao;MAC
+431;Luxemburgo;LUX
+432;Lituania;LTU
+433;Liechtenstein;LIE
+434;Libia;LBY
+435;Liberia;LBR
+436;Letonia;LVA
+437;Lesoto;LSO
+438;Laos;LAO
+439;Islas Marshall;MHL
+440;Zimbabue;ZWE
+441;Tokelau;TKL
+442;Togo;TGO
+443;Timor Oriental;TLS
+444;Territorios Australes Franceses;ATF
+445;Territorio Británico del Océano Índico;IOT
+446;Tayikistán;TJK
+447;Tanzania;TZA
+448;Tailandia;THA
+449;Svalbard y Jan Mayen;SJM
+450;Surinam;SUR
+451;Sudán;SDN
+452;Tonga;TON
+453;Trinidad y Tobago;TTO
+454;Túnez;TUN
+455;Zambia;ZMB
+456;Yibuti;DJI
+457;Yemen;YEM
+458;Wallis y Futuna;WLF
+459;Vietnam;VNM
+460;Vanuatu;VUT
+461;Uzbekistán;UZB
+462;Uganda;UGA
+463;Ucrania;UKR
+464;Tuvalu;TUV
+465;Turkmenistán;TKM
+466;Suazilandia;SWZ
+467;Sri Lanka;LKA
+468;Somalia;SOM
+469;Sahara Occidental;ESH
+470;Rusia;RUS
+471;Ruanda;RWA
+472;Reunión;REU
+473;República Dominicana;DOM
+474;República Democrática del Congo;COD
+475;República del Congo;COG
+476;República de China;TWN
+477;República Checa;CZE
+478;República Centroafricana;CAF
+479;Qatar;QAT
+480;Samoa;WSM
+481;Samoa Americana;ASM
+482;San Cristóbal y Nieves;KNA
+483;Singapur;SGP
+484;Sierra Leona;SLE
+485;Seychelles;SYC
+486;Serbia;SRB
+487;Senegal;SEN
+488;Santo Tomé y Príncipe;STP
+489;Santa Lucía;LCA
+490;Santa Helena;SHN
+491;San Vicente y las Granadinas;VCT
+492;San Pedro y Miquelón;SPM
+493;San Marino;SMR
+494;Polinesia Francesa;PYF
+495;Estonia;EST
+496;Chipre;CYP
+497;Chad;TCD
+498;Camerún;CMR
+499;Camboya;KHM
+500;Cabo Verde;CPV
+501;Bután;BTN
+502;Burundi;BDI
+503;Burkina Faso;BFA
+504;Bulgaria;BGR
+505;Brunéi;BRN
+506;Ciudad del Vaticano;VAT
+507;Comoras;COM
+508;Eslovenia;SVN
+509;Eslovaquia;SVK
+510;Eritrea;ERI
+511;Emiratos Árabes Unidos;ARE
+512;Egipto;EGY
+513;Dominica;DMA
+514;Armenia;ARM
+515;Croacia;HRV
+516;Costa de Marfil;CIV
+517;Corea del Norte;PRK
+518;Botsuana;BWA
+519;Bosnia y Herzegovina;BIH
+520;Argelia;DZA
+521;Arabia Saudita;SAU
+522;Antillas Neerlandesas;ANT
+523;Antigua y Barbuda;ATG
+524;Antártida;ATA
+525;Anguila;AIA
+526;Angola;AGO
+527;Andorra;AND
+528;Albania;ALB
+529;Åland;ALA
+530;Aruba;ABW
+531;Macedonia;MKD
+532;Birmania;MMR
+533;Bielorrusia;BLR
+534;Bermudas;BMU
+535;Benín;BEN
+536;Belice;BLZ
+537;Barbados;BRB
+538;Bangladesh;BGD
+539;Bahréin;BHR
+540;Bahamas;BHS
+541;Azerbaiyán;AZE
+542;Afganistán;AFG
+543;Etiopía;ETH
+544;Indonesia;IDN
+545;Guam;GUM
+546;Guadalupe;GLP
+547;Isla de Navidad;CXR
+548;Mónaco;MCO
+549;Groenlandia;GRL
+550;Islandia;ISL
+551;Granada;GRD
+552;Gibraltar;GIB
+553;Guayana Francesa;GUF
+554;Guernsey;GGY
+555;Guinea;GIN
+556;Irán;IRN
+557;Iraq;IRQ
+558;Hong Kong;HKG
+559;Isla Bouvet;BVT
+560;Isla de Man;IMN
+561;Guyana;GUY
+562;Guinea-Bissau;GNB
+563;Islas Marianas del Norte;MNP
+564;Ghana;GHA
+565;Islas Caimán;CYM
+566;Islas Feroe;FRO
+567;Guinea Ecuatorial;GNQ
+568;Gabón;GAB
+569;Islas Georgias del Sur y Sandwich del Sur;SGS
+570;India;IND
+571;Gambia;GMB
+572;Fiyi;FJI
+573;Islas Cook;COK
+574;Finlandia;FIN
+575;Islas Heard y McDonald;HMD
+576;Filipinas;PHL
+577;Georgia;GEO
+578;Islas Cocos;CCK
+579;Islas Malvinas;FLK

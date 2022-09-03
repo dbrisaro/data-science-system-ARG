@@ -1,0 +1,31 @@
+id;sigla;descripcion;tipo_proyecto_cyt_id;tipo_proyecto_cyt_desc
+1;ANR;APORTES NO REEMBOLSABLES;2;Tecnología e Innovación
+2;ANR BIO NANO TIC;APORTES NO REEMBOLSABLES BIO NANO TIC;2;Tecnología e Innovación
+3;ANR EMPRESA JOVEN;APORTES NO REEMBOLSABLES EMPRESA JOVEN;2;Tecnología e Innovación
+4;ANR INT;APORTES NO REEMBOLSABLES INTERNACIONAL;2;Tecnología e Innovación
+5;ANR P+L;APORTES NO REEMBOLSABLES PRODUCCIÓN MÁS LIMPIA ;2;Tecnología e Innovación
+6;ANR PDT;APORTES NO REEMBOLSABLES DESARROLLO TECNOLÓGICO;2;Tecnología e Innovación
+7;AR SET;APORTES REEMBOLSABLES PARA LA PRESTACIÓN Y CONSOLIDACIÓN DE SERVICIOS TECNOLÓGICOS;2;Tecnología e Innovación
+8;ARTÍCULO 2do;ART. 2do del reglamento de beneficios promocionales de la Ley 23.877;2;Tecnología e Innovación
+9;CAE;CREDITOS A EMPRESAS;2;Tecnología e Innovación
+11;CF MT;CRÉDITO FISCAL MODERNIZACIÓN TECNOLÓGICA;2;Tecnología e Innovación
+12;CRE CO;CRÉDITOS PARA LA MEJORA DE LA COMPETITIVIDAD;2;Tecnología e Innovación
+13;EMPRENDEDORES;SUBSIDIOS A EMPRENDEDORES;2;Tecnología e Innovación
+14;FIT AP;FORTALECIMIENTO DE LA INNOVACIÓN TECNOLÓGICA AGLOMERADOS PRODUCTIVOS;2;Tecnología e Innovación
+15;FIT PDP;FORTALECIMIENTO DE LA INNOVACIÓN TECNOLÓGICA PROYECTOS DE DESARROLLO DE PROVEEDORES;2;Tecnología e Innovación
+17;FITR;FONDOS DE INNOVACIÓN TECNOLÓGICA REGIONAL;2;Tecnología e Innovación
+18;FITS;FONDOS DE INNOVACIÓN TECNOLÓGICA SECTORIAL;2;Tecnología e Innovación
+19;PICT;PROYECTOS DE INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA;1;Ciencia
+20;PICTO;PROYECTOS DE INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA ORIENTADO;1;Ciencia
+21;PID;PROYECTOS DE INVESTIGACIÓN Y DESARROLLO;1;Ciencia
+22;PIP;Proyectos de Investigación Plurianual;1;Ciencia
+23;P-UE;Proyectos de Unidades Ejecutoras;1;Ciencia
+24;PIO;Proyectos de Investigación Orientada;1;Ciencia
+25;PRET;Proyectos Regionales con Enfoque Territorial;2;Tecnología e Innovación
+26;PI;Proyecto Integrado;1;Ciencia
+27;PE;Proyecto Especifico;1;Ciencia
+28;PR;Proyectos Regionales;2;Tecnología e Innovación
+30;PDT Empresas;Proyectos de Desarrollo Tecnológico (EMPRESAS);2;Tecnología e Innovación
+31;PST Instituciones;Proyectos de Servicios Tecnologicos (Instituciones);2;Tecnología e Innovación
+32;PCB;PROGRAMAS DE COOPERACION BILATERAL;1;Ciencia
+33;PE SAT;PROYECTOS ESTRATEGICOS DESARROLLO SATELITAL;2;Tecnología e Innovación
