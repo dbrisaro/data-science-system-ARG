@@ -613,7 +613,7 @@ bx = ax.twinx()
 bx.plot(x, tpubl, '*-', lw=0.5, color='blue')
 bx.tick_params(labelsize=fontsize)
 bx.set_ylabel('Total publicaciones', fontsize=fontsize, color='blue')
-bx.set_ylim([160000, 240000])
+bx.set_ylim([160000, 270000])
 bx.tick_params(axis="y", labelcolor="blue")
 
 fig.savefig(figspath + figname + '.png', dpi=300, bbox_inches='tight')
@@ -707,7 +707,7 @@ fig.savefig(figspath + figname + '.pdf', bbox_inches='tight')
 plt.close()
 
 # In[14]:
-## Grafico - Publicaciones por genero, año y edad
+## Grafico - Publicaciones por genero, año y categoria
 figname = 'cantidad_publicaciones_por_genero_y_categoria_conicet'
 fontsize = 8
 
@@ -749,7 +749,7 @@ xlabels = ['Becario\ndoctoral',
 ax.grid(axis='y', lw=0.5, linestyle=':', color='dimgrey')
 
 ax.set_xticklabels(xlabels, fontsize=fontsize)
-ax.set_yticks([0,4,8,12,16, 20, 24, 28])
+ax.set_yticks([0,4,8,12,16, 20, 24, 28, 32])
 ax.set_xlabel('Categoría', fontsize=fontsize)
 ax.set_ylabel('Cantidad de publicaciones\n(per capita)', fontsize=fontsize)
 
@@ -801,11 +801,11 @@ ax.set_xlabel('Tipo de publicación', fontsize=fontsize)
 ax.set_ylabel('Promedio de publicaciones\n(per capita)', fontsize=fontsize)
 fig.savefig(figspath + figname + '.png', dpi=300, bbox_inches='tight')
 fig.savefig(figspath + figname + '.pdf', bbox_inches='tight')
+plt.close()
 
 
-
-
-# Figura Patentes
+# In[16]:
+## Grafico - Patentes por genero
 
 columnas=['Patentes mujeres (per capita)',
             'Patentes hombres (per capita)']
